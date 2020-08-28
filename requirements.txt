@@ -1,0 +1,3 @@
+sip
+PyQt5
+requests
