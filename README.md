@@ -9,7 +9,13 @@ You will have to install some python modules as mentioned in requirements.txt.
 
 Just open cmd and type:-
 
-*pip install -r requirements.txt*
+To install the packages :
+
+    *pip install -r requirements.txt*
+    
+To upgrade a particular package :
+
+    pip install --upgrade <package name>
 
 
 
