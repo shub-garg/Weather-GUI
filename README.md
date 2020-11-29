@@ -11,7 +11,7 @@ Just open cmd and type:-
 
 To install the packages :
 
-    *pip install -r requirements.txt*
+    pip install -r requirements.txt
     
 To upgrade a particular package :
 
