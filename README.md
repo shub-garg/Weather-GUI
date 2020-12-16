@@ -1,6 +1,6 @@
-# Weather_Map — A weather forecase app built in Python
+# Weather_Map — A weather forecast app built in Python
 
-Weather_Map is a weather forcaste displaying application GUI, which uses open source weather website (openweathermap.org) API. 
+Weather_Map is a weather forecast displaying application GUI, which uses open source weather website (openweathermap.org) API. 
 If you like the project do star it! Much appreciated.
 
 <img src="https://cdn.dribbble.com/users/2277649/screenshots/8498294/weather_dribbble_size.gif.gif" width="1000" height="500">
